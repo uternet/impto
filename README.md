@@ -8,4 +8,4 @@ If the attempt to get date info from Exif or file name fails, the file will be i
  
 Only files with '.jpg' '.jpeg' '.JPG' '.JPEG' extension will be copied.
  
-  Usage:  ~a [source dir] <dest dir>
+  Usage:  impto [source dir] <dest dir>
